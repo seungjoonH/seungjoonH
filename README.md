@@ -47,13 +47,13 @@
 
 <div align="left">
   <a target="_blank" href="https://github.com/seungjoonh">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=seungjoonh&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=true&amp;count_private=true" style="vertical-align: middle;">
+    <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seungjoonh&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" style="vertical-align: middle;">
   </a>
   <a target="_blank" href="https://github.com/seungjoonh?tab=repositories">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjoonh&amp;layout=compact&amp;theme=vue-dark&amp;hide_border=true" style="vertical-align: middle;">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjoonh&layout=compact&theme=vue-dark&hide_border=true" style="vertical-align: middle;">
   </a>
-  <a target="_blank" href="https://streak-stats.demolab.com/?user=seungjoonh&amp;theme=vue-dark&amp;hide_border=true">
-    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=seungjoonh&amp;theme=vue-dark&amp;hide_border=true" style="max-width: 100%;">
+  <a target="_blank" href="https://streak-stats.demolab.com/?user=seungjoonh&theme=vue-dark&hide_border=true">
+    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=seungjoonh&theme=vue-dark&hide_border=true" style="max-width: 100%;">
   </a>
 </div>
 
@@ -341,7 +341,7 @@
 <details> 
 <summary><b>근무 생성기</b> $\text{\color{#64B687} 2020. 03 \~{} 2021. 02}$</summary>
 
-<blockquote>병사 근무 자동화 생성 프로그램<span><a href="https://seungjoonh.notion.site/1b28571793b380f1a38ee4cf790651d6?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a></span></blockquote>
+<blockquote>병사 근무 생성 자동화 프로그램<span><a href="https://seungjoonh.notion.site/1b28571793b380f1a38ee4cf790651d6?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a></span></blockquote>
 
 <span>
   <img style="display: inline-block;" src="https://img.shields.io/badge/HanCell-2B3847?style=for-the-badge&&logoColor=64B687">
