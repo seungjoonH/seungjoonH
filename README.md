@@ -4,9 +4,9 @@
 저는...
 
 > 
-> $\text{\color{#64B687} 𝗕𝗼𝘂𝗻𝗱𝗮𝗿𝘆 𝗕𝗿𝗲𝗮𝗸𝗲𝗿}$ : 미지의 가능성을 끊임없이 탐구하고 목적을 가지고 전진하는 <br />
-> $\text{\color{#64B687} 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗩𝗶𝘀𝗶𝗼𝗻𝗮𝗿𝘆}$ : 파노라마적 관점으로 바라보고 의미 있는 영향력을 위해 신중하게 선택하는 <br />
-> $\text{\color{#64B687} 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗘𝘅𝗽𝗹𝗼𝗿𝗲𝗿}$ : 대담하게 실험하고 직접 발견을 통해 지혜를 구하는
+> **Boudary Breaker** : 미지의 가능성을 끊임없이 탐구하고 목적을 가지고 전진하는 <br />
+> **Strategic Visionary** : 파노라마적 관점으로 바라보고 의미 있는 영향력을 위해 신중하게 선택하는 <br />
+> **Knowledge Explorer** : 대담하게 실험하고 직접 발견을 통해 지혜를 구하는
 
 **<ins>프론트엔드 개발자</ins>** 입니다.
 
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-## $\large{\bf{\color{#64B687} 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 }}$
+## Activities
 
 ### PS
 
@@ -60,7 +60,7 @@
 <br />
 <br />
 
-## $\large{\bf{\color{#64B687} 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝘀 }}$
+## Educations
 
 > - `2025` &nbsp; │ &emsp; 한동대학교 졸업
 > - `2024` &nbsp; │ &emsp; Faculty of Mathematics and Computer Science, Adam Mickiewicz University 교환학생
@@ -70,21 +70,21 @@
 <br />
 <br />
 
-## $\large{\bf{\color{#64B687} 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 }}$
+## Experiences
 
 > <ul>
 > <li><code>2024</code> &nbsp; │ &emsp; <span><span><img width="18px" height="18px" src="https://github.com/user-attachments/assets/75b6c871-871f-48a1-bc8e-d38dd093ae14" alt="swfact"></span> 소프트웨어팩토리 | 인턴</span></li><br />
 > <details>
-> <summary>$\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟴. 𝟮𝟬 \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. 𝟯𝟭}$</summary>
+> <summary><code>2024. 08. 20 ~ 2024. 12. 31</code></summary>
 > <br />
-> <li><b>Socar Advanced App</b> <i>쏘카 자율주행 테스트용 앱</i> 개발 &emsp; $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟴. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟬. }$</li>
+> <li><b>Socar Advanced App</b> <i>쏘카 자율주행 테스트용 앱</i> 개발 &emsp; <code>2024. 08. ~ 2024. 10.</code></li>
 > <ul>
 > <li><code>Flutter</code> App 기반 Frontend 개발</li>
 > <li>신규 UI/UX 화면 개발</li>
 > <li>Backend API 연동</li>
 > </ul>
 > <br />
-> <li><b>Foodrain</b> <i>소상공인 통합 물류 고도화 웹 서비스</i> 유지보수 &emsp; $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟵. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. }$<a target="_blank" href="https://foodrain.com/main"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/47c612a0-7e02-4f6d-b50d-5263a528bd20" alt="foodrain-icon" /></a></li>
+> <li><b>Foodrain</b> <i>소상공인 통합 물류 고도화 웹 서비스</i> 유지보수 &emsp; <code>2024. 09.</code><a target="_blank" href="https://foodrain.com/main"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/47c612a0-7e02-4f6d-b50d-5263a528bd20" alt="foodrain-icon" /></a></li>
 > <ul>
 > <li>사용자용 웹 유지보수 및 기능 추가</li>
 > <ul>
@@ -100,20 +100,20 @@
 > </ul>
 > </ul>
 > <br />
-> <li>사내 <b>유틸리티 패키지</b> 개발 &emsp; $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟭. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. }$</li>
+> <li>사내 <b>유틸리티 패키지</b> 개발 &emsp; <code>2024. 11. ~ 2024. 12.</code></li>
 > <ul>
 > <li><code>Flutter</code> Package 개발</li>
 > <li>Github Repository 생성</li>
 > </ul>
 > <br />
-> <li><b>MicroLearnable</b> <i>코딩 교육용 플랫폼</i> 리팩토링 &emsp; $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟭. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. }$</li>
+> <li><b>MicroLearnable</b> <i>코딩 교육용 플랫폼</i> 리팩토링 &emsp; <code>2024. 11. ~ 2024. 12.</code></li>
 > <ul>
 > <li><code>Flutter</code> 기반 유지보수 및 리팩토링 방법 제안</li>
 > <li>MVVM 패턴 적용을 통한 코드 구조 개선</li>
 > <li>관련 Documentation 작성</li>
 > </ul>
 > <br />
-> <li><b>MicroLearnable GoogleSheet</b> <i>관리자 제공용 구글 스프레드 시트</i> 기획 및 제작 &emsp; $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟮. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. }$</li>
+> <li><b>MicroLearnable GoogleSheet</b> <i>관리자 제공용 구글 스프레드 시트</i> 기획 및 제작 &emsp; <code>2024. 12.</code></li>
 > <ul>
 > <li>교육자가 학생을 효율적으로 관리할 수 있는 스프레드 시트 기획</li>
 > <li><code>AppsScript</code> 기반 스크립트 작성</li>
@@ -127,14 +127,14 @@
 > <ul>
 > <li><code>2023</code> &nbsp; │ &emsp; <span><span><img width="18px" height="18px" src="https://github.com/user-attachments/assets/9162aa80-81a0-41e3-ad29-171caa2b4018" alt="fitween"></span> 피트윈 | CTO</span></li><br />
 > <details>
-> <summary>$\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟲. 𝟬𝟭 \~{} 𝟮𝟬𝟮𝟯. 𝟭𝟮. 𝟯𝟭}$</summary>
+> <summary><code>2023. 06. 01 ~ 2023. 12. 31</code></summary>
 > <br />
 > <ul>
-> <li>Fitween 개발 총괄 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟳. \~{} 𝟮𝟬𝟮𝟯. 𝟭𝟮.}$</li>
-> <li>Fitween 출시 v1.0 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟳.}$</li>
-> <li>Fitween 릴리즈 버전 관리 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟳. \~{} 𝟮𝟬𝟮𝟯. 𝟭𝟮.}$</li>
-> <li>프로젝트 최적화 및 코드 리팩토링 진행 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟳. \~{} 𝟮𝟬𝟮𝟯. 𝟭𝟮.}$</li>
-> <li>Fitween 업그레이드 v2.0 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟭𝟮.}$ <a target="_blank" href="https://apps.apple.com/kr/app/fitween/id1671114122?l=ko-KR"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/72509f37-e128-4fc8-9f35-81bd7a811459" alt="appstore-icon" /></a></li>
+> <li>Fitween 개발 총괄 <code>2023. 07. ~ 2023. 12.</code></li>
+> <li>Fitween 출시 v1.0 <code>2023. 07.</code></li>
+> <li>Fitween 릴리즈 버전 관리 <code>2023. 07. ~ 2023. 12.</code></li>
+> <li>프로젝트 최적화 및 코드 리팩토링 진행 <code>2023. 07. ~ 2023. 12.</code></li>
+> <li>Fitween 업그레이드 v2.0 <code>2023. 12.</code> <a target="_blank" href="https://apps.apple.com/kr/app/fitween/id1671114122?l=ko-KR"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/72509f37-e128-4fc8-9f35-81bd7a811459" alt="appstore-icon" /></a></li>
 > </ul>
 > <br />
 > </details>
@@ -143,13 +143,13 @@
 > <ul>
 > <li><code>2022</code> &nbsp; │ &emsp; <span><span><img width="18px" height="18px" src="https://github.com/user-attachments/assets/9162aa80-81a0-41e3-ad29-171caa2b4018" alt="fitween"></span> 피트윈(학생창업팀) | 개발자</span></li><br />
 > <details>
-> <summary>$\text{\color{#64B687} 𝟮𝟬𝟮𝟮. 𝟬𝟲. 𝟬𝟭 \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟱. 𝟯𝟭}$</summary>
+> <summary><code>2022. 06. 01 ~ 2023. 05. 31</code></summary>
 > <br />
 > <ul>
-> <li>Fitween 기획 $\text{\color{#64B687} 𝟮𝟬𝟮𝟮. 𝟭𝟮. \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟭.}$</li>
-> <li>TensorFlow 사의 Movenet 기술을 활용한 자세 인식 기능 개발 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟭. \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟯.}$</li>
-> <li>Fitween 개발 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟭. \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟱.}$</li>
-> <li>Fitween 앱 내 배지 디자인 $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟰. \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟱.}$</li>
+> <li>Fitween 기획 <code>2022. 12. ~ 2023. 01.</code></li>
+> <li>TensorFlow 사의 Movenet 기술을 활용한 자세 인식 기능 개발 <code>2023. 01. ~ 2023. 03.</code></li>
+> <li>Fitween 개발 <code>2023. 01. ~ 2023. 05.</code></li>
+> <li>Fitween 앱 내 배지 디자인 <code>2023. 04. ~ 2023. 05.</code></li>
 > </ul>
 > </details>
 > </ul>
@@ -158,7 +158,7 @@
 <br />
 <br />
 
-## $\large{\bf{\color{#64B687} 𝗦𝗸𝗶𝗹𝗹𝘀 }}$
+## Skills
 
 ### Web
 
@@ -210,12 +210,12 @@
 <br />
 <br />
 
-## $\large{\bf{\color{#64B687} 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 }}$
+## Projects
 
 ### Web
 
 <details> 
-<summary><b>Handong Glocal Website</b> (개발중) $\text{\color{#64B687} 𝟮𝟬𝟮𝟱. 𝟬𝟯. \~{} 𝗣𝗿𝗲𝘀𝗲𝗻𝘁}$</summary>
+<summary><b>Handong Glocal Website</b> (개발중) &emsp; <code>2025. 03. ~ Present</code></summary>
 <blockquote>한동대학교 공식 글로컬 홈페이지 <span><a target="_blank" href="https://seungjoonh.notion.site/Handong-Glocal-Website-1b28571793b380d9aa5bfe5af5f44a71?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" />
 </a><a target="_blank" href="https://github.com/D-Moong"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" />
 </a></span></blockquote>
@@ -239,7 +239,7 @@
 
 
 <details> 
-<summary><b>JustOneBite</b> (개발중) $\text{\color{#64B687} 𝟮𝟬𝟮𝟱. 𝟬𝟮. \~{} 𝗣𝗿𝗲𝘀𝗲𝗻𝘁}$</summary>
+<summary><b>JustOneBite</b> (개발중) &emsp; <code>2025. 02. ~ Present</code></summary>
 
 <blockquote>학생이 영어를 학습하고 교사가 관리하는, 영어학원 제휴 온라인 학습 플랫폼<span><a target="_blank" href="https://seungjoonh.notion.site/JustOneBite-1b28571793b3803886b6dd17f62e908b?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" />
 </a><a target="_blank" href="https://github.com/JustOneBite"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" />
@@ -262,7 +262,7 @@
 </details>
 
 <details> 
-<summary><b>BoJ API Server</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟬. \~{} 𝗣𝗿𝗲𝘀𝗲𝗻𝘁}$</summary>
+<summary><b>BoJ API Server</b> &emsp; <code>2024. 10. ~ Present</code></summary>
 
 <blockquote>나의 BoJ PS 풀이 현황을 로드, 저장, 불러오는 API 개발<span><a target="_blank" href="https://seungjoonh.notion.site/BoJ-API-Server-1b28571793b380cc95c5eb5883fda253?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/baekjoon-list"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a></span></blockquote>
 
@@ -277,7 +277,7 @@
 </details>
 
 <details> 
-<summary><b>Foodrain</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟵. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮.}$</summary>
+<summary><b>Foodrain</b> &emsp; <code>2024. 09. ~ 2024. 12.</code></summary>
 
 <blockquote>소상공인 통합 물류 고도화 웹 서비스 유지보수<span><a target="_blank" href="https://seungjoonh.notion.site/Foodrain-1b38571793b3802782a5daffeda8f87a?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://foodrain.com/main"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/47c612a0-7e02-4f6d-b50d-5263a528bd20" alt="foodrain-icon" /></a></span></blockquote>
 
@@ -292,7 +292,7 @@
 </details>
 
 <details> 
-<summary><b>Nanum Square Arabic</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟬. 𝟭𝟳 \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟬. 𝟮𝟰}$</summary>
+<summary><b>Nanum Square Arabic</b> &emsp; <code>2024. 10. 17 ~ 2024. 10. 24</code></summary>
 
 <blockquote>디자이너 졸업작품 외주 프로젝트<span><a target="_blank" href="https://seungjoonh.notion.site/Nanum-Square-Arabic-1b38571793b3805b963bf984e80a64ac?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/nanum_square_arabic"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a></span></blockquote>
 
@@ -317,9 +317,9 @@
 
 
 <details> 
-<summary><b>Socar Advanced App</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟴. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟬.}$</summary>
+<summary><b>Socar Advanced App</b> &emsp; <code>2024. 08. ~ 2024. 10.</code></summary>
 
-<blockquote>쏘카 자율주행 테스트용 어플리케이션 개발<span><a target="_blank" href="https://seungjoonh.notion.site/Socar-Advanced-1b38571793b380f58857fd0e60646151?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></span></blockquote>
+<blockquote>쏘카 자율주행 테스트용 어플리케이션 개발<span><a target="_blank" href="https://seungjoonh.notion.site/Socar-Advanced-1b38571793b380f58857fd0e60646151?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a></span></blockquote>
 
 <span>
   <img style="display: inline-block;" src="https://img.shields.io/badge/Dart-2B3847?style=for-the-badge&logo=dart&logoColor=64B687">
@@ -332,7 +332,7 @@
 </details>
 
 <details> 
-<summary><b>Fitween</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟮. 𝟭𝟮. \~{} 𝗣𝗿𝗲𝘀𝗲𝗻𝘁}$</summary>
+<summary><b>Fitween</b> &emsp; <code>2022. 12. ~ 2023. 12.</code></summary>
 
 <blockquote>AI 모션인식과 게임 요소를 활용한 운동 동기부여 어플리케이션<span>
 <a target="_blank" href="https://seungjoonh.notion.site/Fitween-5d171e0d05064445a18f31cc666bb89d?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/fitween"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a><a target="_blank" href="https://apps.apple.com/kr/app/fitween/id1671114122?l=ko-KR"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/72509f37-e128-4fc8-9f35-81bd7a811459" alt="appstore-icon" /></a></span></blockquote>
@@ -348,9 +348,8 @@
 
 </details>
 
-
 <details> 
-<summary><b>Sthep</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟮. 𝟬𝟮. 𝟮𝟴 \~{} 𝟮𝟬𝟮𝟮. 𝟬𝟲. 𝟭𝟳}$</summary>
+<summary><b>Sthep</b> &emsp; <code>2022. 02. 28 ~ 2022. 06. 17</code></summary>
 
 <blockquote>필기가 가능한 질의응답 어플리케이션<span><a target="_blank" href="https://seungjoonh.notion.site/Sthep-5f3c2539ba834929b51ee9a97eb24fc4?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/sthep"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a></span></blockquote>
 
@@ -365,7 +364,7 @@
 </details>
 
 <details> 
-<summary><b>Haring</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟭. 𝟭𝟮. 𝟮𝟳 \~{} 𝟮𝟬𝟮𝟮. 𝟬𝟮. 𝟭𝟴}$</summary>
+<summary><b>Haring</b> &emsp; <code>2021. 12. 27 ~ 2022. 02. 18</code></summary>
 
 <blockquote>찬양팀 전용 악보 공유 어플리케이션<span><a target="_blank" href="https://seungjoonh.notion.site/Haring-e5d22c84418a4cdab3aaf8c407f35f3a?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/haring"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a></span></blockquote>
 
@@ -385,7 +384,7 @@
 ### Package
 
 <details> 
-<summary><b>Seungjoon Utils</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟭. 𝟮𝟬 \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮. 𝟬𝟭}$</summary>
+<summary><b>Seungjoon Utils</b> <code>2024. 11. 20 ~ 2024. 12. 01</code></summary>
 
 <blockquote>내가 사용할 플러터 유틸리티 패키지<span>
 <a target="_blank" href="https://seungjoonh.notion.site/Seungjoon-Utils-1b38571793b38096b093fed93897da52?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/seungjoon_utils"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/flutter-string-case-converter"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/flutter-hangeul"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a></span></blockquote>
@@ -404,7 +403,7 @@
 ### Others
 
 <details> 
-<summary><b>MicroLearnable GoogleSheet</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟭𝟮. \~{} 𝟮𝟬𝟮𝟰. 𝟭𝟮.}$</summary>
+<summary><b>MicroLearnable GoogleSheet</b> &emsp; <code>2024. 12.</code></summary>
 
 <blockquote>MicroLearnable 학생 관리자 제공용 스프레드 시트 제작<span><a target="_blank" href=""><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a></span></blockquote>
 
@@ -420,7 +419,7 @@
 </details>
 
 <details> 
-<summary><b>3D Renderer</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟰. 𝟬𝟱. 𝟭𝟬 \~{} 𝟮𝟬𝟮𝟰. 𝟬𝟱. 𝟯𝟬}$</summary>
+<summary><b>3D Renderer</b> &emsp; <code>2024. 05. 10 ~ 2024. 05. 30</code></summary>
 
 <blockquote>삼차원 오브젝트 렌더링 엔진 개발<span><a target="_blank" href="https://seungjoonh.notion.site/3D-Renderer-41ef56c37dfc4ab68e1c49c010fd629f?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a>
 <a target="_blank" href="https://github.com/seungjoonH/3d-renderer"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/project-3d-renderer"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a></span></blockquote>
@@ -435,7 +434,7 @@
 </details>
 
 <details> 
-<summary><b>Reversi</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟲. 𝟬𝟱 \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟲. 𝟭𝟴}$</summary>
+<summary><b>Reversi</b> &emsp; <code>2023. 06. 05 ~ 2023. 06. 18</code></summary>
 
 <blockquote>소켓 통신을 이용한 Linux OS용 리버시 게임<span><a target="_blank" href="https://seungjoonh.notion.site/Reversi-1b38571793b38001baffc5d1ee7e0993?pvs=4">
 <img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/reversi"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a></span></blockquote>
@@ -449,7 +448,7 @@
 </details>
 
 <details> 
-<summary><b>Keep</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟱. 𝟮𝟬 \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟱. 𝟮𝟵}$</summary>
+<summary><b>Keep</b> &emsp; <code>2023. 05. 20 ~ 2023. 05. 29</code></summary>
 
 <blockquote>교육용 유사 VCS<span><a target="_blank" href="https://seungjoonh.notion.site/Keep-37146c538acd4df4b6d3a03e19fd10eb?pvs=4">
 <img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/keep"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/project-keep"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a></span></blockquote>
@@ -463,7 +462,7 @@
 </details>
 
 <details> 
-<summary><b>Tico & Tico Simulator</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟯. 𝟬𝟰. 𝟮𝟮 \~{} 𝟮𝟬𝟮𝟯. 𝟬𝟰. 𝟮𝟵}$</summary>
+<summary><b>Tico & Tico Simulator</b> &emsp; <code>2023. 04. 22 ~ 2023. 04. 29</code></summary>
 
 <blockquote>교육용 어셈블리어 컴파일러<span><a target="_blank" href="https://seungjoonh.notion.site/TICO-TICO-Simulator-117d42ca2d5f4ae08abd7bb5af5bdc3c?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/tico"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a><a target="_blank" href="https://seungjoonh.tistory.com/entry/project-tico"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/c6db9394-7442-43a1-a65d-fc1862cd8a8a" alt="tistory-icon" /></a></span></blockquote>
 
@@ -476,7 +475,7 @@
 </details>
 
 <details> 
-<summary><b>Tetris</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟭. 𝟬𝟲. 𝟬𝟭 \~{} 𝟮𝟬𝟮𝟭. 𝟬𝟲. 𝟯𝟬}$</summary>
+<summary><b>Tetris</b> &emsp; <code>2021. 06. 01 ~ 2021. 06. 30</code></summary>
 
 <blockquote>테트리스 모방 프로젝트<span><a target="_blank" href="https://seungjoonh.notion.site/Tetris-a6de9e7a545249dcb0b927f51a08e4cb?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a><a target="_blank" href="https://github.com/seungjoonH/tetris"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" /></a></span></blockquote>
 
@@ -491,7 +490,7 @@
 
 
 <details> 
-<summary><b>근무 생성기</b> $\text{\color{#64B687} 𝟮𝟬𝟮𝟬. 𝟬𝟯. \~{} 𝟮𝟬𝟮𝟭. 𝟬𝟮.}$</summary>
+<summary><b>근무 생성기</b> &emsp; <code>2020. 03. ~ 2021. 02.</code></summary>
 
 <blockquote>병사 근무 생성 자동화 프로그램<span><a target="_blank" href="https://seungjoonh.notion.site/1b28571793b380f1a38ee4cf790651d6?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" /></a></span></blockquote>
 
