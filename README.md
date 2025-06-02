@@ -218,6 +218,7 @@
 <summary><b>Handong Glocal Website</b> (개발중) &emsp; <code>2025. 03. ~ Present</code></summary>
 <blockquote>한동대학교 공식 글로컬 홈페이지 <span><a target="_blank" href="https://seungjoonh.notion.site/Handong-Glocal-Website-1b28571793b380d9aa5bfe5af5f44a71?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" />
 </a><a target="_blank" href="https://github.com/D-Moong"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" />
+</a><a target="_blank" href="https://glocal.handong.edu"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/63f076f9-b2a0-4c5f-9e20-9b8099e88b18" alt="hguglocal-icon" />
 </a></span></blockquote>
 
 <span>
