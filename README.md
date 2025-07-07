@@ -1,15 +1,19 @@
 
-# SEUNGJOON H, 현승준
+## 탐구의 흔적을 남기는 개발자, 현승준 입니다.
 
-저는...
+<br />
 
-> 
-> **Boudary Breaker** : 미지의 가능성을 끊임없이 탐구하고 목적을 가지고 전진하는 <br />
-> **Strategic Visionary** : 파노라마적 관점으로 바라보고 의미 있는 영향력을 위해 신중하게 선택하는 <br />
-> **Knowledge Explorer** : 대담하게 실험하고 직접 발견을 통해 지혜를 구하는
+> 탐구한 흔적을 **기록으로 남기고, 구조화된 결과물**로 이어내는 개발자를 지향합니다.
+>
+> **기획부터 개발, 유지보수까지** 전 과정을 경험하며 <br />
+> **사용자와 팀을 위한 개발**을 고민합니다.
+>
+> 단순 구현을 넘어서 사용성과 협업 효율을 높이는 설계를 지향하며, <br />
+> **문서화, 일관된 워크플로우, 재사용 가능한 구조 설계**에 가치를 둡니다.
+>
+> 작은 기능도 **원리를 탐구**하고, **흐름을 정리하며 남기는 습관**을 지니고 있습니다.
 
-**<ins>프론트엔드 개발자</ins>** 입니다.
-
+<br />
 <br />
 
 <span>
@@ -23,7 +27,7 @@
     <img style="display: inline-block;" src="https://img.shields.io/badge/Notion-2B3847?style=for-the-badge&logo=notion&logoColor=64B687">
   </a>
   <a target="_blank" href="https://github.com/seungjoonh">
-    <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseungjoonH%2Fhit-counter&count_bg=%2364B687&title_bg=%232B3847&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img align="right" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FseungjoonH&label=Github&icon=github&color=%2364b687&message=&style=for-the-badge&tz=Asia%2FSeoul"/>
   </a>
 </span>
 
@@ -43,17 +47,19 @@
   </a>
 </div>
 
+<br />
+
 ### STATS
 
 <div align="left">
-  <a target="_blank" href="https://github.com/seungjoonh">
-    <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seungjoonh&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" style="vertical-align: middle;">
-  </a>
+  <!-- <a target="_blank" href="https://github.com/seungjoonh">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=seungjoonh&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" style="vertical-align: middle;">
+  </a> -->
   <a target="_blank" href="https://github.com/seungjoonh?tab=repositories">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjoonh&layout=compact&theme=vue-dark&hide_border=true&count_private=true" style="vertical-align: middle;">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjoonh&layout=compact&theme=vue-dark&hide_border=true&count_private=true" style="vertical-align: middle;">
   </a>
   <a target="_blank" href="https://streak-stats.demolab.com/?user=seungjoonh&theme=vue-dark&hide_border=true">
-    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=seungjoonh&theme=vue-dark&hide_border=true" style="max-width: 100%;">
+    <img width="450" src="https://streak-stats.demolab.com/?user=seungjoonh&theme=vue-dark&hide_border=true" style="max-width: 100%;">
   </a>
 </div>
 
@@ -169,7 +175,7 @@
   <img style="display: inline-block;" src="https://img.shields.io/badge/React-2B3847?style=for-the-badge&logo=React&logoColor=64B687">
   <img style="display: inline-block;" src="https://img.shields.io/badge/Next.js-2B3847?style=for-the-badge&logo=Next.Js&logoColor=64B687"><br />
   <img style="display: inline-block;" src="https://img.shields.io/badge/Node.js-2B3847?style=for-the-badge&logo=Node.Js&logoColor=64B687">
-  <img style="display: inline-block;" src="https://img.shields.io/badge/Spring-2B3847?style=for-the-badge&logo=Spring&logoColor=64B687">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/SpringBoot-2B3847?style=for-the-badge&logo=springboot&logoColor=64B687">
 </span>
 
 
@@ -189,7 +195,7 @@
 <span>
   <img style="display: inline-block;" src="https://img.shields.io/badge/Firebase-2B3847?style=for-the-badge&logo=firebase&logoColor=64B687">
   <img style="display: inline-block;" src="https://img.shields.io/badge/Redis-2B3847?style=for-the-badge&logo=redis&logoColor=64B687">
-  <img style="display: inline-block;" src="https://img.shields.io/badge/MySQL-2B3847?style=for-the-badge&logo=mysql&logoColor=64B687">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/PostgreSQL-2B3847?style=for-the-badge&logo=postgresql&logoColor=64B687">
 </span>
 
 
@@ -215,7 +221,7 @@
 ### Web
 
 <details> 
-<summary><b>Handong Glocal Website</b> (개발중) &emsp; <code>2025. 03. ~ Present</code></summary>
+<summary><b>Handong Glocal Website</b> (유지보수중) &emsp; <code>2025. 03. ~ 2025. 05.</code></summary>
 <blockquote>한동대학교 공식 글로컬 홈페이지 <span><a target="_blank" href="https://seungjoonh.notion.site/Handong-Glocal-Website-1b28571793b380d9aa5bfe5af5f44a71?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" />
 </a><a target="_blank" href="https://github.com/D-Moong"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/11d371b9-b18c-4839-b919-9e60d9e068ac" alt="github-icon" />
 </a><a target="_blank" href="https://glocal.handong.edu"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/63f076f9-b2a0-4c5f-9e20-9b8099e88b18" alt="hguglocal-icon" />
@@ -224,14 +230,14 @@
 <span>
   <img style="display: inline-block;" src="https://img.shields.io/badge/Html5-2B3847?style=for-the-badge&logo=html5&logoColor=64B687">
   <img style="display: inline-block;" src="https://img.shields.io/badge/Css3-2B3847?style=for-the-badge&logo=css3&logoColor=64B687">
-  <img style="display: inline-block;" src="https://img.shields.io/badge/Javascript-2B3847?style=for-the-badge&logo=JavaScript&logoColor=64B687">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/Typescript-2B3847?style=for-the-badge&logo=TypeScript&logoColor=64B687">
   <img style="display: inline-block;" src="https://img.shields.io/badge/React-2B3847?style=for-the-badge&logo=React&logoColor=64B687">
 </span>
 <br />
 <span>
-  <img style="display: inline-block;" src="https://img.shields.io/badge/Spring-2B3847?style=for-the-badge&logo=spring&logoColor=64B687">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/SpringBoot-2B3847?style=for-the-badge&logo=springboot&logoColor=64B687">
   <img style="display: inline-block;" src="https://img.shields.io/badge/AWS-2B3847?style=for-the-badge&logo=amazonWebServices&logoColor=64B687">
-  <img style="display: inline-block;" src="https://img.shields.io/badge/MySQL-2B3847?style=for-the-badge&logo=mysql&logoColor=64B687">
+  <img style="display: inline-block;" src="https://img.shields.io/badge/PostgreSQL-2B3847?style=for-the-badge&logo=postgresql&logoColor=64B687">
 </span>
 
 <br />
@@ -239,7 +245,7 @@
 </details>
 
 
-<details> 
+<!-- <details> 
 <summary><b>JustOneBite</b> (개발중) &emsp; <code>2025. 02. ~ Present</code></summary>
 
 <blockquote>학생이 영어를 학습하고 교사가 관리하는, 영어학원 제휴 온라인 학습 플랫폼<span><a target="_blank" href="https://seungjoonh.notion.site/JustOneBite-1b28571793b3803886b6dd17f62e908b?pvs=4"><img align="right" width="24px" height="24px" src="https://github.com/user-attachments/assets/f7a8801c-6197-41c2-95a6-dfa71276ef27" alt="notion-icon" />
@@ -260,7 +266,7 @@
 
 <br />
 
-</details>
+</details> -->
 
 <details> 
 <summary><b>BoJ API Server</b> &emsp; <code>2024. 10. ~ Present</code></summary>
